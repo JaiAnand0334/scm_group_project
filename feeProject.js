@@ -12,7 +12,7 @@ function displayContacts() {
 
     contacts.forEach(contact => {
         const contactDiv = document.createElement('div');
-        contactDiv.className = 'contact';
+        contactDiv.classname= 'contact';
 
         contactDiv.innerHTML = `
             <img src="${contact.profilePic}" alt="status picture
