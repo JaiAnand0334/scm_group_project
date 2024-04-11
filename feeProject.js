@@ -84,7 +84,7 @@ function editContact(name) {
     }
 }
 
-// Function to delete a contact
+// Function to delete a contract
 function deleteContact(name) {
     const index = contacts.findIndex(c => c.name === name);
 
