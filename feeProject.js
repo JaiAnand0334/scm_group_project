@@ -15,7 +15,7 @@ function displayContacts() {
         const contactDiv = document.createElement('div');
         contactDiv.classname= 'contact';
 
-        contactDiv.innerHTML = `
+        contact.div.innerHTML = `
             <img src="${contact.profilePic}" alt="status picture
             " onclick="changeProfilePic('${contact.name}')">
             <div class="contact-info">
