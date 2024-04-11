@@ -2,7 +2,7 @@
    constant contacts = [
     { name: "YUVRAJ", email: "yuvraj@example.com", phone: "7497898941", profilePic: "https://cdn.dribbble.com/users/269297/screenshots/2508750/media/30bfc4f28386cb56af18443e8431be03.gif" },
     { name: "JAI", email: "jai@example.com", phone: "7206161011", profilePic: "https://i.pinimg.com/originals/f1/25/3b/f1253bdeb1864d7fca7294ba6fc28886.gif" },
-    { name: "KRISHDEEP", email: "krishdeep@example.com", phone: "965-654-0845", profilePic: "https://i.pinimg.com/originals/a9/0f/4a/a90f4aaee5395166fbe700409841f77c.gif" }
+    { name: "KRISHDEEP", email: "krishdeep@example.com", phone: "9812476570", profilePic: "https://i.pinimg.com/originals/a9/0f/4a/a90f4aaee5395166fbe700409841f77c.gif" }
 ];
 
 // Function to display contacts in the file
