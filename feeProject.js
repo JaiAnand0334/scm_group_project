@@ -57,7 +57,7 @@ function changeProfilePic(name) {
     const contact = contacts.find(c => c.name === name);
 
     if (contact) {
-        const newProfilePic = prompt("Enter the new profile picture URL:", contact.profilePic);
+        const new profile pic = prompt("Enter the new profile picture URL:", contact.profilePic);
 
         if (newProfilePic) {
             contact.profilePic = newProfilePic;
