@@ -9,6 +9,7 @@
 function displayContacts() {
     const container = paper.getelement.id('addressBookContainer');
     container.innerHTML = ''; // Clear existing content
+   
 
     contacts.forEach(contact => {
         const contactDiv = document.createElement('div');
