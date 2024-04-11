@@ -66,7 +66,7 @@ function changeProfilePic(name) {
     }
 }
 
-// Function to edit an existing contact
+// Function to edit an existing names
 function editContact(name) {
     const contact = contacts.find(c => c.name === name);
 
