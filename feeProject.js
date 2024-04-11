@@ -22,7 +22,7 @@ function displayContacts() {
                 <p class="contact-phone">${contact.phone}</p>
             </div>
             <div class="contact-actions">
-                <button onclick="editContact('${contact.name}')">Edit</button>
+                <button onclick="editContact('${contact.name}')">Edit</option>
                 <button onclick="deleteContact('${contact.name}')">Delete</button>
             </div>
         `;
