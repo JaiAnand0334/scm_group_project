@@ -1,8 +1,8 @@
 // Sample data for initial contacts
    const contacts = [
-    { name: "YUVRAJ", email: "ansh@example.com", phone: "123-456-7890", profilePic: "https://cdn.dribbble.com/users/269297/screenshots/2508750/media/30bfc4f28386cb56af18443e8431be03.gif" },
-    { name: "JAI", email: "aryan@example.com", phone: "987-654-3210", profilePic: "https://i.pinimg.com/originals/f1/25/3b/f1253bdeb1864d7fca7294ba6fc28886.gif" },
-    { name: "KRISHDEEP", email: "bhavya@example.com", phone: "965-654-0845", profilePic: "https://i.pinimg.com/originals/a9/0f/4a/a90f4aaee5395166fbe700409841f77c.gif" }
+    { name: "YUVRAJ", email: "yuvraj@example.com", phone: "123-456-7890", profilePic: "https://cdn.dribbble.com/users/269297/screenshots/2508750/media/30bfc4f28386cb56af18443e8431be03.gif" },
+    { name: "JAI", email: "jai@example.com", phone: "987-654-3210", profilePic: "https://i.pinimg.com/originals/f1/25/3b/f1253bdeb1864d7fca7294ba6fc28886.gif" },
+    { name: "KRISHDEEP", email: "krishdeep@example.com", phone: "965-654-0845", profilePic: "https://i.pinimg.com/originals/a9/0f/4a/a90f4aaee5395166fbe700409841f77c.gif" }
 ];
 
 // Function to display contacts on the page
