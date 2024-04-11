@@ -15,7 +15,8 @@ function displayContacts() {
         contactDiv.className = 'contact';
 
         contactDiv.innerHTML = `
-            <img src="${contact.profilePic}" alt="Profile Picture" onclick="changeProfilePic('${contact.name}')">
+            <img src="${contact.profilePic}" alt="status picture
+            " onclick="changeProfilePic('${contact.name}')">
             <div class="contact-info">
                 <h2 class="contact-name">${contact.name}</h2>
                 <p class="contact-email">${contact.email}</p>
