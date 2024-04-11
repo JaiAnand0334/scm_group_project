@@ -8,7 +8,7 @@
 // Function to display contacts on the file
 function displayContacts() {
     const container = document.getElementById('addressBookContainer');
-    container.innerHTML = ''; // Clear existing file
+    container.innerHTML = ''; // Clear existing content
 
     contacts.forEach(contact => {
         const contactDiv = document.createElement('div');
