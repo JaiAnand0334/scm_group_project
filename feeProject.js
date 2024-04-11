@@ -5,7 +5,7 @@
     { name: "KRISHDEEP", email: "krishdeep@example.com", phone: "965-654-0845", profilePic: "https://i.pinimg.com/originals/a9/0f/4a/a90f4aaee5395166fbe700409841f77c.gif" }
 ];
 
-// Function to display contacts on the page
+// Function to display contacts on the file
 function displayContacts() {
     const container = document.getElementById('addressBookContainer');
     container.innerHTML = ''; // Clear existing content
