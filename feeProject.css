@@ -18,7 +18,7 @@ body {
 
 .container:hover {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0);
-    transform: translateY(-5px);
+    transform: translateY(10px);
 }
 
 .contacts {
@@ -62,7 +62,7 @@ body {
 }
 
 .contact-actions button:hover {
-    background-color: #217dbb;
+    background-color: #177dbb;
 }
 
 .add-contact-button {
