@@ -30,7 +30,7 @@ function displayContacts() {
         container.appendChild(contactDiv);
     });
 
-    // Add Contact button inside the container, after the last contact
+    // Add Contact option inside the container, after the last contact
     const addContactButton = document.createElement('button');
     addContactButton.className = 'add-contact-button';
     addContactButton.textContent = 'Add Contact';
