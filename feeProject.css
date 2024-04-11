@@ -6,10 +6,6 @@ body {
     transition: background-color 0.3s ease-in-out;
 }
 
-
-
-}
-
 .container {
     max-width: 600px;
     margin: 20px auto;
@@ -40,7 +36,7 @@ body {
 }
 
 .contact:hover {
-    background-color: #e0ebee;
+    background-color: #e9bbee;
 }
 
 .contact img {
